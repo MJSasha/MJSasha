@@ -9,11 +9,11 @@
 <div align="center">
   
   [![My Skills](https://skillicons.dev/icons?i=cs,java,lua,css,html)](https://skillicons.dev)
-  
+  <br/>
   [![My Skills](https://skillicons.dev/icons?i=dotnet,wasm,spring,maven,gradle)](https://skillicons.dev)
-  
+  <br/>
   [![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
-  
+  <br/>
   [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,kafka,git,neovim)](https://skillicons.dev)
   
 </div>
